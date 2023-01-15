@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */.main {
+    display: flex;
+    justify-content: space-between;  
+    flex-wrap: wrap; 
+}
+.item{
+    width: 25%;
+}
