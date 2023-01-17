@@ -1,5 +1,5 @@
 
-/* Your CSS Code here. */.main {
+/* Your CSS Code here. */holder{
     display: flex;
     justify-content: space-between;  
     flex-wrap: wrap; 
